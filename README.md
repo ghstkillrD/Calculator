@@ -1,2 +1,2 @@
 # Calculator
-Simple calculator by JAVA
+Simple calculator build using JAVA
